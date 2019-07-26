@@ -1,5 +1,7 @@
 require('dotenv').config()
 
+alert("code change"); //I added code here
+
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var browserify = require('browserify');
